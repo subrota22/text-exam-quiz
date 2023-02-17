@@ -1,0 +1,94 @@
+
+[
+    {
+    "questionNumber": 1,
+    "question" : "Ohm is a unit of measuring _________?",
+    "questionFirstOption":"Resistance",
+    "questionSecondOption":"Voltage",
+    "questionThirdOption":"Current",
+    "questionForthOption":" None of the above",
+    "answer": "Resistance"
+    },
+    {
+    "questionNumber": 2,
+    "question" : "Which among the following temperature scale is based upon absolute zero?",
+    "questionFirstOption":"Celsius",
+    "questionSecondOption":"Fahrenheit",
+    "questionThirdOption":"Kelvin",
+    "questionForthOption":"Rankine",
+    "questionFifthOption":"None of the above",
+    "answer": "Kelvin"
+    },
+    {
+    "questionNumber": 3,
+    "question" : "Svedberg Unit” is a unit of _________?",
+    "questionFirstOption":"Concentration",
+    "questionSecondOption":"Size",
+    "questionThirdOption":"Density",
+    "questionForthOption":"Time",
+    "answer": "Time"
+    },
+    {
+    "questionNumber": 4,
+    "question" : "Radioactive emission of which of the following particles would change(s) mass number as well as atomic number? 1.Gamma particle , 2.Beta particle, 3.Alpha particle. Select the correct option from the codes given below:",
+    "questionFirstOption":"Only 1 & 2",
+    "questionSecondOption":"Only 2 & 3",
+    "questionThirdOption":"Only 3",
+    "answer": "Only 3"
+    
+    },
+    {
+    "questionNumber": 5,
+    "question" : "You are sitting inside an open vehicle moving with uniform speed. When you throw a stone vertically upwards, the stone will fall__:",
+    "questionFirstOption":"Ahead of you",
+    "questionSecondOption":"Behind you",
+    "questionThirdOption":"Over you",
+    "questionForthOption":"Either ahead or behind of you",
+    "answer": "Over you"
+    },
+    {
+    "questionNumber": 6,
+    "question" : "With respect to the measurements of the acceleration g due to the gravity of the Earth, different values of g are found at different  1.Depths, 2.Altitudes, 3.Longitudes, 4.Latitudes. Select the correct option from the codes given below:?",
+ "questionFirstOption":"1 & 2",
+    "questionSecondOption":"1, 2 & 3",
+    "questionThirdOption":"1, 2, 3 & 4",
+    "questionForthOption":"1, 2 & 4 ",
+    "answer": "1, 2 & 3"
+    },
+    {
+    "questionNumber": 7,
+    "question" : "What changes are made by a flute player when he / she opens and closes the holes in the body of the flute? 1.Change in pitch of the sound, 2.Change resonant frequency, 3.Change in the length of resonator. Select the correct option from the codes given below:",
+  "questionFirstOption":"1 & 2",
+    "questionSecondOption":"1, 2 & 3",
+    "questionThirdOption":"1 & 3",
+    "questionForthOption":"2 & 3",
+    "answer": "1, 2 & 3"
+    },
+    {
+    "questionNumber": 8,
+    "question" : "Temperature 1.Work, 2.Kinetic Energy, 3.Momentum, 4.Power. Select the correct option from codes given below:",
+ "questionFirstOption":"1 & 2",
+    "questionSecondOption":"1, 2 & 3",
+    "questionThirdOption":"1, 2, 3 & 4",
+    "questionForthOption":"4 Only",
+    "answer": "4 Only"
+    },
+    {
+    "questionNumber": 9,
+    "question" : "Which of the following is the largest practical unit of mass?",
+    "questionFirstOption":"Slug",
+    "questionSecondOption":"a.m.u",
+    "questionThirdOption":"Hyperkg",
+    "questionForthOption":" C.S.L",
+    "answer": "C.S.L"  
+    },
+    {
+    "questionNumber": 10,
+    "question" : "What is the slope of the velocity-time graph when an object moves with constant negative acceleration, having positive initial velocity?",
+    "questionFirstOption":"90°",
+    "questionSecondOption":"more than 90°",
+    "questionThirdOption":"Less than 90°",
+    "questionForthOption":" 0°",
+    "answer": "more than 90°"  
+    }
+    ]

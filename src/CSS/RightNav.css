@@ -1,0 +1,227 @@
+.right-side-nav {
+  margin: 14px 10px;
+}
+
+.profileDiv {
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: auto;
+  padding: 12px 0px;
+  background-color: rgba(0, 255, 255, 0.2);
+  border-radius: 2px;
+}
+.nextButton{
+  background-color:  #b80f55;
+  border: none;
+  border-radius: 10px;
+  width: 12%;
+  padding: 10px;
+  color: white;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  margin: 0px 10px;
+}
+
+.prevButton{
+  background-color:  #6109a8;
+  border: none;
+  border-radius: 10px;
+  width: 12%;
+  padding: 10px;
+  color: white;
+  font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  margin: 0px 10px;
+}
+
+.profileImage {
+  height: 120px;
+  width: 124px;
+  margin-left: 6px;
+  border-radius: 2px;
+}
+
+.timerDirection {
+  display: flex;
+  justify-content: space-around;
+  padding: 2px 10px;
+}
+
+.leftTime { margin-top: 26px;}
+.name {margin: 0px 10px;}
+
+.questionPallet {
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: 320px;
+  background-color: rgba(0, 255, 255, 0.2);
+  border-radius: 2px;
+  margin: 18px 3px;
+}
+
+.questionPalletHead , .legendHead {
+  justify-content: space-between;
+  background-color: #0985B4;
+  width: 100%;
+  height: auto;
+  border-radius: 2px;
+  padding: 10px 0;
+  color: white;
+}
+
+.palletText,.legendText {
+  margin: 0px 10px;
+}
+
+.palletButton {
+  width: 20%;
+  padding: 6px 8px;
+  border: 1.3px solid white;
+  background-color:darkblue;
+  font-weight: bold;
+}
+.dumpClick{
+  width: 20%;
+  padding: 6px 8px;
+  border: 1.3px solid blue;
+  background-color:white;
+  color: lime;
+  font-weight: bold;
+}
+.reviewClick{
+  width: 20%;
+  padding: 6px 8px;
+  border: 1.3px solid white;
+  background-color:yellow;
+  color: lime;
+  font-weight: bold;
+}
+.palletButton:hover , .palletButtonNext:hover , .firstGroup > button:hover , .dumpClick:hover,
+.secondGroup > button:hover , .thirdGroup > button:hover , .reviewClick:hover {
+  background-color: #0985B4;
+  color: white;
+  transition-duration: 1s;
+  cursor: pointer;
+}
+.submitButtons:hover , .allQuestion:hover{background-color: blue; cursor: pointer; transition-duration: 1s;}
+
+.legend{
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
+  width: 100%;
+  height: auto ;
+  padding-bottom: 7px;
+  background-color: rgba(0, 255, 255, 0.2);
+  border-radius: 2px;
+  margin: 20px 3px; 
+}
+.firstGroup, .secondGroup , .thirdGroup{width: 98%; display: flex; margin-left: 3px;}
+.firstGroup > button , .secondGroup > button , .thirdGroup > button {
+width: 50%;
+padding: 10px 2px;
+margin: 2.3px 1.6px;
+border: none;
+font-size: 16px;
+font-weight: 400;
+border-radius: 1px;
+}
+
+.allQuestion{width: 98%; padding: 6px; margin: 3px 0px; margin-left: 2.5px; border: none;}
+.answerButton{background-color: green;}
+.noAnswerButton{background-color: red;}
+.reviewPlusButton{background-color: #6f0dc083;}
+.reviewMinusButton{background-color: yellow;}
+.dumpButton{background-color: darkgrey}
+.noVisitButton{background-color: white;}
+.allQuestion{  background-color: #0985B4; padding: 12px 3px; font-size: 18px}
+
+.buttonDivider{background-color: white; border: 1.7px solid white; border-radius: 1px;}
+
+.forthGroup , .fifthGroup{
+display: flex;
+width: 100%;
+justify-content: center;
+}
+.submitButtons{
+  background-color: #0985B4;
+   padding: 12px 3px; font-size: 18px; 
+  width: 46%; border: none; margin: 2px;
+  color: white; border-radius: 5px;
+}
+
+.trophyImage{
+height: 233px;
+width: 200px;
+margin: auto;
+justify-content: center;
+display: flex;
+align-items: center;
+}
+.scoreStyle{color: gold;}
+.score{
+text-align: center;
+margin: 7px 6px;
+color: rgba(216, 216, 216, 0.932);
+font-size: 25px;
+font-weight: bold;
+}
+.palletButtonNext{
+  width: 20%;
+  padding: 6px 8px;
+  border: 1.3px solid white;
+  background-color: green;
+  font-weight: bold;
+  color: white;
+}
+.divSpace{padding: 12px 10px; display: flex;}
+
+.redButton{
+  background-color: red;
+}
+.yellowButton{
+  background-color: yellow;
+}
+#radioButton{
+margin-top: 20px;
+margin-left: 10px;
+margin-right: 10px;
+height: 20px;
+width: 20px;
+background-color: #6109a8;
+}
+/* RWD 
+@media (max-width:1000px) {
+  .profileDiv{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      width: 500px;
+  }
+  .timerDirection {display: flex; flex-direction: column;}
+ .questionPallet, .legend{ width: 500px;}
+}
+
+@media (max-width:800px) {
+  .profileDiv{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      width: 300px;
+  }
+  .firstGroup, .secondGroup , .thirdGroup{display: flex; flex-direction: column-reverse;}
+  .timerDirection {display: flex; flex-direction: column;}
+ .questionPallet, .legend{ width: 300px;}
+}
+
+
+@media (max-width:600px) {
+  .profileDiv{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      width: 200px;
+  }
+  .timerDirection {display: flex; flex-direction: column;}
+ .questionPallet, .legend{ width: 200px;}
+} */

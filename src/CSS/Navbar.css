@@ -1,0 +1,100 @@
+
+/* .navButtonGroup , .optionFooterButtonGroup{
+    display: flex;
+    margin: 5px 10px;
+} */
+.optionFooterButtonGroup > .navLink{
+    background-color:  #066E95;
+    border: none;
+    border-radius: 10px;
+    width: 15%;
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px 10px;  
+}
+.navLink{
+    background-color:  #066E95;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding: 6px 10px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    margin: 0px 10px;
+    justify-content: center;
+    align-items: center;
+}
+.congrats{
+    text-align: center;
+    margin: 7px 6px;
+    text-transform: uppercase;
+    font-size: 25px;
+    font-weight: bold;
+    animation: congrats infinite alternate forwards linear 1s;
+     
+}
+@keyframes congrats { from{transform: scale(0.8); color: white;}  to{transform:scale(1); color: lime;}}
+
+.allSectionButton{
+    background-color: #120573;
+    border: none;
+    border-radius: 10px;
+    padding: 6px 10px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.nextCommonButton{
+    background-color: #120573;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 10px;
+    padding: 6px 10px;
+    color: white;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.navHead{
+    background-color: #120573;
+    border: none;
+    width: 100%;
+    color: white;
+    font-size: 22px;
+    padding: 6px 0px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 10px;
+} 
+
+.navDivider{
+display: block;
+margin: 10px 10px;
+clear: both;
+border: 1px solid black;
+}
+
+.navHead{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.logo{
+    height: 58px;
+    width: 58px;
+    border-radius: 10px;
+}
+.navButtonGroup > a ,  .optionFooterButtonGroup >  a { 
+    text-align: center;
+    text-decoration: none;
+}

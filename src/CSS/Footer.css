@@ -1,0 +1,55 @@
+.footer {
+    width: 100%;
+    background-color: rgba(4, 43, 80, 0.74);
+    padding: 15px 0px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 6%;
+    color: white;
+    position: absolute;
+}
+
+.footerButtonsGroup {
+    display: flex;
+    justify-content: center;
+}
+
+.footerButtons {
+    border-radius: 12px;
+    margin: 0px 3px;
+    padding: 8px 10px;
+    background-color: #066E95;
+    border: none;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+.dumpClickFooter {
+    background-color: white;
+    border-radius: 12px;
+    margin: 0px 3px;
+    padding: 8px 10px;
+    border: 2px solid lime;
+    text-decoration: none;
+    color: lime;
+}
+.reviewClickFooter{
+    background-color: yellow;
+    border-radius: 12px;
+    margin: 0px 3px;
+    padding: 8px 10px;
+    border: 2px solid lime;
+    text-decoration: none;
+    color: white; 
+}
+.nextClickFooter{
+    background-color: green;
+    border-radius: 12px;
+    margin: 0px 3px;
+    padding: 8px 10px;
+    border: 2px solid lime;
+    text-decoration: none;
+    color: white; 
+}

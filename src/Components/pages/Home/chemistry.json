@@ -1,0 +1,93 @@
+[
+    {
+        "questionNumber": 1,
+        "question": "The purest form of iron is:",
+        "questionFirstOption": "wrought iron",
+        "questionSecondOption": "steel",
+        "questionThirdOption": "pig iron",
+        "questionForthOption": "nickel steel",
+        "answer": "wrought iron"
+    },
+    {
+        "questionNumber": 2,
+        "question": "Hydrogen bomb is based on the principle of",
+        "questionFirstOption": "nuclear fission",
+        "questionSecondOption": "nuclear fusion",
+        "questionThirdOption": "natural radioactivity",
+        "questionForthOption": "artificial radioactivity",
+        "questionFifthOption": "None of the above",
+        "answer": "nuclear fusion"
+    },
+    {
+        "questionNumber": 3,
+        "question": "Which of the following is a non metal that remains liquid at room temperature  ?",
+        "questionFirstOption": "Chlorine",
+        "questionSecondOption": "Phosphorous",
+        "questionThirdOption": "Bromine",
+        "questionForthOption": "Helium",
+        "answer": "Bromine"
+    },
+    {
+        "questionNumber": 4,
+        "question": "What is the structure of IF7 ?",
+        "questionFirstOption": "Pentagonal bipyramid",
+        "questionSecondOption": " Triagonal bipyramid",
+        "questionThirdOption": "Square pyramid",
+        "questionForthOption": "tetrahedral",
+        "answer": "Pentagonal bipyramid"
+    },
+    {
+        "questionNumber": 5,
+        "question": "Brass gets discoloured in air because of the presence of which of the following gases in air  ?",
+        "questionFirstOption": " Hydrogen sulphide",
+        "questionSecondOption": "Oxygen",
+        "questionThirdOption": "Nitrogen",
+        "questionForthOption": "Carbon dioxide",
+        "answer": "Hydrogen sulphide"
+    },
+    {
+        "questionNumber": 6,
+        "question": "Among the given nutrients, milk is a poor source of",
+        "questionFirstOption": "Calcium",
+        "questionSecondOption": "Protein",
+        "questionThirdOption": "Vitamin C",
+        "questionForthOption": "Carbohydrates",
+        "answer": "Vitamin C"
+    },
+    {
+        "questionNumber": 7,
+        "question": "Name the Scientist who stated that matter can be converted into energy",
+        "questionFirstOption": "Boyle",
+        "questionSecondOption": "Lavoisier",
+        "questionThirdOption": "Avogadro",
+        "questionForthOption": "Einstein",
+        "answer": "Einstein"
+    },
+    {
+        "questionNumber": 8,
+        "question": "Among the following the maximum covalent character is shown by the compound",
+        "questionFirstOption": "FeCl2",
+        "questionSecondOption": "SnCl2",
+        "questionThirdOption": "AlCl3",
+        "questionForthOption": "MgCl2",
+        "answer": "AlCl3"
+    },
+    {
+        "questionNumber": 9,
+        "question": "When formaldehyde and potassium hydroxide are heated , we get",
+        "questionFirstOption": "Acetylene",
+        "questionSecondOption": "Methyl alcohol",
+        "questionThirdOption": "Methane",
+        "questionForthOption": "C.S.L",
+        "answer": "Methyl alcohol"
+    },
+    {
+        "questionNumber": 10,
+        "question": "Cobalt - 60 is commonly used in radiation therapy because it emits",
+        "questionFirstOption": "alpha - rays",
+        "questionSecondOption": "gamma rays",
+        "questionThirdOption": "beta rays",
+        "questionForthOption": " X - rays",
+        "answer": "gamma rays"
+    }
+]

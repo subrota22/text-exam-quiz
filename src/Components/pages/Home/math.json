@@ -1,0 +1,99 @@
+
+[
+    {
+    "questionNumber": 1,
+    "question" : "What is x <sup>2</sup> + 1 differentiated with respect to x?",
+    "questionFirstOption":"2x",
+    "questionSecondOption":"X",
+    "questionThirdOption":"X+1",
+    "questionForthOption":"1",
+    "questionFifthOption":"2x+1",
+    "answer": "2x"
+    },
+    {
+    "questionNumber": 2,
+    "question" : "What will be the derivative of this function- 'f(x) = 1963' ",
+    "questionFirstOption":"0",
+    "questionSecondOption":"1963",
+    "questionThirdOption":" −∞",
+    "questionForthOption":"1",
+    "questionFifthOption":"None of the above",
+    "answer": "0"
+    },
+    {
+    "questionNumber": 3,
+    "question" : "What is the integral of 1 with respect to x?",
+    "questionFirstOption":"0.5x",
+    "questionSecondOption":"0.75x",
+    "questionThirdOption":"1.25x",
+    "questionForthOption":"X",
+    "questionFifthOption":"2x+1",
+    "answer": "X"
+    },
+    {
+    "questionNumber": 4,
+    "question" : "State whether the given statement is true or false. The second fundamental theorem of calculus states that if F(x) = a ∫ x f(t) dt then F '(x) = f(x).",
+    "questionFirstOption":"True",
+    "questionSecondOption":"False",
+    "answer": "True"
+    
+    },
+    {
+    "questionNumber": 5,
+    "question" : "What is x <sup> What is x2 + 1 differentiated with respect to y? </sup> + 1 differentiated with respect to y?",
+    "questionFirstOption":"2x",
+    "questionSecondOption":"0",
+    "questionThirdOption":"2X+1",
+    "questionForthOption":"Xy +1",
+    "questionFifthOption":"(x+1)y",
+    "answer": "0"
+    },
+    {
+    "questionNumber": 6,
+    "question" : "What function is integrated to get this graph?",
+    "questionFirstOption":"-x+1",
+    "questionSecondOption":"(x+1)",
+    "questionThirdOption":"X-1",
+    "questionForthOption":"1",
+    "questionFifthOption":"2x",
+    "questionImage":"https://i.ibb.co/RCxRSHx/math6.png",
+    "answer": "2x"
+    },
+    {
+    "questionNumber": 7,
+    "question" : "Here's a theory-based question. Can you name the two men who discovered calculus? ",
+    "questionFirstOption":"Newton",
+    "questionSecondOption":"Gottfried Wilhelm Leibniz",
+    "questionThirdOption":"Thomas Edison",
+    "questionForthOption":"Georg Cantor",
+    "answer": "Newton Gottfried Wilhelm Leibniz"
+    },
+    {
+    "questionNumber": 8,
+    "question" : "From the video, what is slope defined as?",
+    "videoLink":"https://youtu.be/rAof9Ld5sOg",
+    "questionFirstOption":"Change in y divided by change in x",
+    "questionSecondOption":"Change in y multiplied by change in x",
+    "questionThirdOption":"Change in x multiplied by change in x",
+    "questionForthOption":"Change in x divided by change in x",
+    "questionFifthOption":"Change in x divided by change in y",
+    "answer": "Change in y divided by change in x" 
+    },
+    {
+    "questionNumber": 9,
+    "question" : "What is the limit of 1/(x-1) as x goes to infinity?",
+    "questionFirstOption":"Infinity",
+    "questionSecondOption":"1",
+    "questionThirdOption":"0",
+    "questionForthOption":"-1",
+    "questionFifthOption":"Negative infinity",
+    "answer": "0"  
+    },
+    {
+    "questionNumber": 10,
+    "question" : "The limit as x goes to zero of x<sup>-1</sup> exists.",
+    "questionFirstOption":"True",
+    "questionSecondOption":"False",
+    "answer": "False" 
+    }
+    ]
